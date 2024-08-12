@@ -11,3 +11,6 @@ This repository contains the front-end code for the Coffee House website. The we
 - **Promotion:** Highlights the coffee shop's products and services.
 - **Advertising:** Engages visitors with attractive design and information.
 
+## Preview
+![1](https://github.com/user-attachments/assets/3f2b3bfe-a03a-437f-8827-ed76e3ad2380)
+![11](https://github.com/user-attachments/assets/d8732632-cb2f-4189-8b6f-6389b69cfc65)
